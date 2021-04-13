@@ -16,7 +16,7 @@ if __name__=='__main__':
 	max = find_min_positive(nums)
 	print(max)
 	
-  nums = [1, 2, 3]
+        nums = [1, 2, 3]
 	max = find_min_positive(nums)
 	print(max)
   
